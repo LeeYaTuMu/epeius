@@ -2,7 +2,7 @@ const a0_0x2fb029=a0_0x5f45;(function(_0x2e92cf,_0x1b6039){const _0x1d3566=a0_0x
  * [js-sha256]{@link https://github.com/emn178/js-sha256}
  * 
  * @version 0.11.0 (modified by cmliu)
- * @description 本代码基于 js-sha256 项目改编，添加了 SHA-224 哈希算法的实现。
+ * @description 本代码基于 js-sha256 项目改编，添加了 SHA-224 哈希算法1的实现。
  * @author Chen, Yi-Cyuan [emn178@gmail.com], modified by cmliu
  * @copyright Chen, Yi-Cyuan 2014-2024
  * @license MIT
